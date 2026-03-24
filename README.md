@@ -13,7 +13,6 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 
 ## Communication 
-.
 # VoicePrompt 项目协作开发对话记录
 
 ## 项目规划与需求分析
